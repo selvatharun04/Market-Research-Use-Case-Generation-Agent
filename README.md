@@ -5,10 +5,6 @@ This project is a multi-agent AI system built using LangChain, Google Gemini Pro
 
 https://market-research-use-case-generation-agent-ewe6mj4gyarmqvwb6m6c.streamlit.app/
 
-# Link to the working of the project
-
-https://drive.google.com/file/d/1jxuA_ygSF0gCF_XN7TdOa8YLQWsbK8sN/view?usp=sharing
-
 
 ## 🚀 Features
 
